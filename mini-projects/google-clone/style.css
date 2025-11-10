@@ -1,0 +1,41 @@
+.main-div {
+    margin-top: 200px;
+}
+
+.logo-img {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input {
+    display: block;
+    width: 686px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #dfe1e5;
+    border-radius: 26px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    padding-top: 18px;
+}
+
+.btn {
+    font-size: 14px;
+    font-weight: 400;
+    background: #dfe1e5;
+    border: 1px solid #dfe1e5;
+    border-radius: 8px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    height: 36px;
+}
